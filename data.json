@@ -1,0 +1,11 @@
+{
+  "goalWeight": 66,
+  "heightCm": 172,
+  "records": [
+    {"date":"2026-10-26","weight":96.9,"askenScore":42},
+    {"date":"2026-10-27","weight":96.5},
+    {"date":"2026-10-28","weight":97.0},
+    {"date":"2026-10-29","weight":97.0},
+    {"date":"2026-10-30","weight":97.3}
+  ]
+}
